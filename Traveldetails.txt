@@ -1,0 +1,5 @@
+('Rahul', '856945642', 'male', 'bombay', 'cash', 1)
+('Sanketh', '9485263256', 'male', 'bangalore', 'debit card', 0)
+('Sohan', '8569545639', 'male', 'chennai', 'cash', 1)
+('Pooja', '9856974586', 'female', 'bangalore', 'debit card', 0)
+('Ravi', '8695632563', 'male', 'bangalore', 'cash', 1)
